@@ -3,8 +3,10 @@
 This project is created with expo. 
 
 Clone the Repo
-yarn 
-yarn start 
+
+<b>yarn </b>
+
+<b>yarn start </b>
 
 Following steps were followed to create the project from scratch 
 Creating Project using exo :
